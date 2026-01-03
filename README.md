@@ -89,3 +89,14 @@ A dedicated /images folder will contain screenshots including:
 
 ## Conclusion
 This project demonstrates full lifecycle security monitoring: environment creation, SIEM deployment, log ingestion, event generation, and detection validation. It directly mirrors real-world SOC analyst workflows and highlights my ability to configure tools, understand log data, and create meaningful detections. This repository serves as a practical portfolio project showing applied blue-team skills with Splunk and Linux authentication monitoring.
+
+## 📸 Screenshots
+
+### Ubuntu VM running in VirtualBox
+![Ubuntu VM](images/Screen-shots/Screenshot from 2026-01-02 02-31-58.png)
+
+### Splunk Web Interface
+![Splunk Web](images/Screen-shots/Screenshot from 2026-01-02 02-35-40.png)
+
+### Splunk detecting failed authentication attempts
+![Splunk failed login detection](images/Screen-shots/Screenshot from 2026-01-02 02-48-02.png)
