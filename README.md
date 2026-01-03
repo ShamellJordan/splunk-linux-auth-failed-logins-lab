@@ -93,10 +93,10 @@ This project demonstrates full lifecycle security monitoring: environment creati
 ## 📸 Screenshots
 
 ### Ubuntu VM running in VirtualBox
-![Ubuntu VM](images/Screen-shots/Screenshot from 2026-01-02 02-31-58.png)
+![Ubuntu VM](images/Screen-shots/Screenshot%20from%202026-01-02%2002-31-58.png)
 
 ### Splunk Web Interface
-![Splunk Web](images/Screen-shots/Screenshot from 2026-01-02 02-35-40.png)
+![Splunk Web](images/Screen-shots/Screenshot%20from%202026-01-02%2002-35-40.png)
 
 ### Splunk detecting failed authentication attempts
-![Splunk failed login detection](images/Screen-shots/Screenshot from 2026-01-02 02-48-02.png)
+![Splunk failed login detection](images/Screen-shots/Screenshot%20from%202026-01-02%2002-48-02.png)
