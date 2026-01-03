@@ -98,5 +98,5 @@ This project demonstrates full lifecycle security monitoring: environment creati
 ### Splunk detecting failed authentication attempts
 ![Splunk Web](images/Screenshot%20from%202026-01-02%2002-35-40.png)
 
-### Splunk web interface
+### Splunk Log
 ![Splunk failed login detection](images/Screenshot%20from%202026-01-02%2002-48-02.png)
